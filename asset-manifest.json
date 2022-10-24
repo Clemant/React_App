@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/React_App/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/React_App/static/js/main.88bd1949.chunk.js",
-    "main.js.map": "/React_App/static/js/main.88bd1949.chunk.js.map",
+    "main.css": "/React_App/static/css/main.22899254.chunk.css",
+    "main.js": "/React_App/static/js/main.a131fa10.chunk.js",
+    "main.js.map": "/React_App/static/js/main.a131fa10.chunk.js.map",
     "runtime-main.js": "/React_App/static/js/runtime-main.5272cced.js",
     "runtime-main.js.map": "/React_App/static/js/runtime-main.5272cced.js.map",
     "static/js/2.0a866a4b.chunk.js": "/React_App/static/js/2.0a866a4b.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.c83d0dcc.chunk.js": "/React_App/static/js/3.c83d0dcc.chunk.js",
     "static/js/3.c83d0dcc.chunk.js.map": "/React_App/static/js/3.c83d0dcc.chunk.js.map",
     "index.html": "/React_App/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/React_App/static/css/main.8c8b27cf.chunk.css.map",
+    "static/css/main.22899254.chunk.css.map": "/React_App/static/css/main.22899254.chunk.css.map",
     "static/js/2.0a866a4b.chunk.js.LICENSE.txt": "/React_App/static/js/2.0a866a4b.chunk.js.LICENSE.txt",
     "static/media/femme-sexy.25d89800.webp": "/React_App/static/media/femme-sexy.25d89800.webp",
     "static/media/logo.6ce24c58.svg": "/React_App/static/media/logo.6ce24c58.svg"
@@ -18,7 +18,7 @@
   "entrypoints": [
     "static/js/runtime-main.5272cced.js",
     "static/js/2.0a866a4b.chunk.js",
-    "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.88bd1949.chunk.js"
+    "static/css/main.22899254.chunk.css",
+    "static/js/main.a131fa10.chunk.js"
   ]
 }
