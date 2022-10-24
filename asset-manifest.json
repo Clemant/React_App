@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/React_App/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/React_App/static/js/main.3b504181.chunk.js",
-    "main.js.map": "/React_App/static/js/main.3b504181.chunk.js.map",
+    "main.js": "/React_App/static/js/main.d15c4ba4.chunk.js",
+    "main.js.map": "/React_App/static/js/main.d15c4ba4.chunk.js.map",
     "runtime-main.js": "/React_App/static/js/runtime-main.5272cced.js",
     "runtime-main.js.map": "/React_App/static/js/runtime-main.5272cced.js.map",
     "static/js/2.0a866a4b.chunk.js": "/React_App/static/js/2.0a866a4b.chunk.js",
@@ -12,12 +12,13 @@
     "index.html": "/React_App/index.html",
     "static/css/main.8c8b27cf.chunk.css.map": "/React_App/static/css/main.8c8b27cf.chunk.css.map",
     "static/js/2.0a866a4b.chunk.js.LICENSE.txt": "/React_App/static/js/2.0a866a4b.chunk.js.LICENSE.txt",
+    "static/media/femme-sexy.25d89800.webp": "/React_App/static/media/femme-sexy.25d89800.webp",
     "static/media/logo.6ce24c58.svg": "/React_App/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.5272cced.js",
     "static/js/2.0a866a4b.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.3b504181.chunk.js"
+    "static/js/main.d15c4ba4.chunk.js"
   ]
 }
