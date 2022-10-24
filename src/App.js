@@ -1,11 +1,19 @@
 import logo from "./logo.svg";
 import "./App.css";
+import images from "./images/femme-sexy.webp";
 import data from "./data/database";
 function App() {
   return (
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
+        <img
+          src={images}
+          className="App-logo"
+          alt="images"
+          width={450}
+          height={300}
+        />
         <p>
           {data.map((element, index) => {
             return (
